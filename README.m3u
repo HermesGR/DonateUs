@@ -1,4 +1,6 @@
 
+#EXTM3U
+
 #EXTINF:1, [COLOR blue] PayPal : d2bleym@yahoo.com[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
